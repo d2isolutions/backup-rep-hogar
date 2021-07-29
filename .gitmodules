@@ -1,0 +1,4 @@
+[submodule "mrp-custom-addons"]
+	path = mrp-custom-addons
+	url = git@github.com:d2isolutions/mrp-custom-addons.git
+	branch = 14.0
